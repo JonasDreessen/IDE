@@ -52,12 +52,15 @@ Also see where your CSS selector is being applied in the browser by simply putti
 Want to work on the CSS that applies to a specific ID? Put your mouse cursor on that ID, push Command / Ctrl+E and Brackets will show
  you all the CSS selectors with that ID in an inline window so you can work on your code side-by-side without any popups.
 
+<<<<<<< HEAD
 ## What to do now
 
 - [ ] Go to google
 - [ ] Search VSC
 - [ ] Download
 - [x] Have fun
+
+=======
 
  # summary 
  IDE | Website
